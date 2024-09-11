@@ -20,6 +20,7 @@ ninja
 ```
 
 # Contribution guide
+- Check ``demo.rd`` for demo syntax
 - Dont modify readme
 - Create a pull request if u want to add code
 - Use git. Dont use the drag and drop feature of github
