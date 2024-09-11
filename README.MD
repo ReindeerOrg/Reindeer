@@ -20,6 +20,9 @@ ninja
 ```
 
 # Contribution guide
+- Dont modify readme
+- Create a pull request if u want to add code
+- Use git. Dont use the drag and drop feature of github
 - This is not a library so when we define a function then we name it ``func`` instead of something like ``reindeer_func`` because we are not making a library
 - Create an issue if u encounter any bug
 - Read the header files to know how to use a particular function
